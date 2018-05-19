@@ -18,4 +18,6 @@ The scheme is distributed in two forms:
 
 Please use as appropriate for your version. Hope you enjoy the theme!
 
+Options -> Colors -> Import
+
 
